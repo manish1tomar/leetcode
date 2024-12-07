@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ada806ea-a0f0-4bfa-8d9c-703e40a5f419" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/heapify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LastStoneWeight.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +44,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.$FileDirName$.executor": "Run",
+    "Python.LastStoneWeight.executor": "Run",
     "Python.heapify.executor": "Run",
     "Python.leetcode.executor": "Run",
     "Python.maxHeap.executor": "Run",
